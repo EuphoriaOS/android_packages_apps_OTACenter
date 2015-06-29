@@ -70,14 +70,14 @@
     <string name="short_cut_download_gapps_summary">Download latest Gapps package</string>
 
     <!-- URL's -->
-    <string name="download_url">http://euphoria-os.ninja</string>
-    <string name="changelog_url">http://fs1.androidfilesharing.com/ota/changelog.txt</string>
-    <string name="xda_url">http://forum.xda-developers.com/usercp.php</string>
+    <string name="download_url">https://www.androidfilehost.com/?w=files&flid=22707</string>
+    <string name="changelog_url">http://blaquesoul.com/ota/changelog.txt</string>
+    <string name="xda_url">http://forum.xda-developers.com/galaxy-s4/i9500-develop/rom-euphoria-os-1-0-t2973008</string>
     <string name="gapps_url">http://goo.gl/4gG3MH</string>
     <string name="gapps_url_kitkat">http://goo.gl/KGcni2</string>
 
     <!-- Update checker -->
-    <string name="xml_url_kitkat">http://fs1.androidfilesharing.com/ota/ota_file.xml</string>
+    <string name="xml_url_kitkat">http://blaquesoul.com/ota/ota_file.xml</string>
     <string name="notification_message">ROM update available</string>
 
     <!-- About -->
