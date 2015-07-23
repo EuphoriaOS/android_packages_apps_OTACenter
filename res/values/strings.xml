@@ -70,7 +70,7 @@
     <string name="short_cut_download_gapps_summary">Download latest Gapps package</string>
 
     <!-- URL's -->
-    <string name="download_url">https://www.androidfilehost.com/?w=files&flid=22707</string>
+    <string name="download_url">https://www.androidfilehost.com/?w=devices&amp;uid=23329332407589188</string>
     <string name="changelog_url">http://blaquesoul.com/ota/changelog.txt</string>
     <string name="xda_url">http://forum.xda-developers.com/galaxy-s4/i9500-develop/rom-euphoria-os-1-0-t2973008</string>
     <string name="gapps_url">http://goo.gl/4gG3MH</string>
